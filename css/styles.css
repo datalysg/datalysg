@@ -46,6 +46,9 @@
 .footer-wrap-1{
     display: flex;
 }
+.footer-wrap-2{
+    color:#fff;
+}
 .footer-section{
     width:22%;
     display:block;
